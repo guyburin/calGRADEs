@@ -1,3 +1,7 @@
 /bin/
 .project
+<<<<<<< HEAD
 .classpath
+=======
+.classpath
+>>>>>>> 65f19c135685e10d1c4d5e3538fd80e241831ed9
